@@ -10,6 +10,7 @@ CLONE GITHUB
 [//]: # (Add your gifs/images here:)
 <div align="center">
   <img src="src/assets/darktheme.gif" alt="darkTheme" height="425">
+  <br>
   <img src="src/assets/search.gif" alt="Search" height="425">
 </div>
 
