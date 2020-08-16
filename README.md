@@ -11,7 +11,7 @@ CLONE GITHUB
 <div>
   <img src="src/assets/darktheme.gif" alt="darkTheme" height="425">
 
-  <img src="src/assets/search.gif.gif" alt="darkTheme" height="425">
+  <img src="src/assets/search.gif.gif" alt="Search" height="425">
 </div>
 
 <hr />
